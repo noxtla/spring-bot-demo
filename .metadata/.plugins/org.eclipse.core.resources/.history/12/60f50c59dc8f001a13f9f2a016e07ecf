@@ -1,0 +1,5 @@
+package models.entity.service;
+
+public class ProductoServiceImpl {
+
+}
