@@ -1,0 +1,6 @@
+package models.entity.dao;
+import org.springframework.data
+
+public interface ProductoDao extends Cru  {
+	
+}

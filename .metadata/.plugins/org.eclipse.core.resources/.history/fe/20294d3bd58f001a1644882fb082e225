@@ -1,0 +1,5 @@
+package models.entity.dao;
+
+public interface ProductoDao {
+	
+}
