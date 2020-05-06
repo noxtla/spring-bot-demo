@@ -15,6 +15,7 @@ import models.entity.service.IProductoService;
 ///Convertir a JSON los metodos handler del controlador 
 
 @RestController
+
 public class ProductoController {
 	
 	@Autowired
