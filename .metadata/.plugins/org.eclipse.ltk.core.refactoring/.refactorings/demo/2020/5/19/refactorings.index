@@ -1,1 +1,8 @@
 1588796836283	Delete element
+1588811497306	Copy package
+1588811504364	Delete element
+1588811519069	Delete element
+1588812202867	Rename package 'models.entity'
+1588812279037	Rename package 'com.example.demo.models.entity'
+1588812315826	Rename package 'models.entity.dao'
+1588812338946	Rename package 'models.entity.service'
