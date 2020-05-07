@@ -1,0 +1,11 @@
+INSERT INTO productos (nombre,precio, create_at) VALUES ('Sony',200,NOW());
+INSERT INTO productos (nombre,precio, create_at) VALUES ('iphone',554,NOW());
+INSERT INTO productos (nombre,precio, create_at) VALUES ('ssss',458,NOW());
+INSERT INTO productos (nombre,precio, create_at) VALUES ('aaa',7800,NOW());
+INSERT INTO productos (nombre,precio, create_at) VALUES ('www',15489,NOW());
+INSERT INTO productos (nombre,precio, create_at) VALUES ('www',245,NOW());
+INSERT INTO productos (nombre,precio, create_at) VALUES ('eee',454,NOW());
+INSERT INTO productos (nombre,precio, create_at) VALUES ('sss',121,NOW());
+INSERT INTO productos (nombre,precio, create_at) VALUES ('ddd',858,NOW());
+INSERT INTO productos (nombre,precio, create_at) VALUES ('ddd',45,NOW());
+INSERT INTO productos (nombre,precio, create_at) VALUES ('sss',585,NOW());
